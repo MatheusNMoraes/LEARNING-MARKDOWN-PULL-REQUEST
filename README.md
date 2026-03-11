@@ -11,3 +11,14 @@ Repositor for exemple
   var name = "Matheus"
 //good
   let name = "Matheus"
+
+### definition of function
+...
+ Don't use else 
+...
+
+//bad
+
+//good
+  if (a == b)
+    console.log()
